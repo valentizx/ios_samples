@@ -1,0 +1,9 @@
+
+platform :ios, '11.0'
+
+target 'Sample_01' do
+
+  use_frameworks!
+  pod 'SwiftyJSON', '~> 4.0'
+
+end

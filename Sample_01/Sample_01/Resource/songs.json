@@ -1,0 +1,110 @@
+{
+    "datas":[
+        {
+             "artist": "BoA",
+              "year": "2018",
+              "genre": "K-Pop",
+              "album": "WOMAN",
+              "title": "Woman",
+              "thumbnail": "woman"
+        },
+        {
+            "artist": "Dear Jane",
+              "year": "2016",
+              "genre": "Cantopop/Rock",
+              "album": "101",
+              "title": "羽毛鱗刺",
+              "thumbnail": "101"
+        },
+        {
+            "artist": "Cage the Elephant",
+              "year": "2019",
+              "genre": "Alternative",
+              "album": "Social Cues",
+              "title": "Black Madonna",
+              "thumbnail": "socialcues"
+        },
+        {
+            "artist": "Justin Timberlake",
+              "year": "2018",
+              "genre": "Pop",
+              "album": "Man of the Woods",
+              "title": "Supplies",
+              "thumbnail": "manofthewoods"
+
+        },
+        {
+            "artist": "AKB48",
+              "year": "2021",
+              "genre": "J-Pop",
+              "album": "根も葉もRumor Special Edition - EP",
+              "title": "根も葉もRumor",
+              "thumbnail": "nemohamorumorep"
+
+        },
+        {
+            "artist": "SafetySuit",
+              "year": "2011",
+              "genre": "Rock",
+              "album": "These Times (Bonus Track Version)",
+              "title": "One Time",
+              "thumbnail": "thesetimes"
+
+        },
+        {
+            "artist": "SUPER JUNIOR",
+              "year": "2011",
+              "genre": "K-Pop",
+              "album": "Animal - Single",
+              "title": "Animal",
+              "thumbnail": "animal"
+
+        },
+        {
+            "artist": "Coldplay",
+              "year": "2014",
+              "genre": "Alternative",
+              "album": "Ghost Stories",
+              "title": "Another's Arms",
+              "thumbnail": "ghoststories"
+
+        },
+        {
+            "artist": "Jordan Davis",
+              "year": "2018",
+              "genre": "Country",
+              "album": "Home State",
+              "title": "Take It From Me",
+              "thumbnail": "homestate"
+
+        },
+        {
+            "artist": "Calvin Harris",
+              "year": "2012",
+              "genre": "Dance",
+              "album": "18 Months",
+              "title": "We'll Be Coming Back (feat. Example)",
+              "thumbnail": "18months"
+
+        },
+        {
+            "artist": "Logic",
+              "year": "2018",
+              "genre": "Hip-Hop/Rap",
+              "album": "The Return",
+              "title": "18 Months",
+              "thumbnail": "ysiv"
+
+        },
+        {
+            "artist": "Craig David",
+              "year": "2000",
+              "genre": "R&B",
+              "album": "Born to Do It",
+              "title": "7 Days",
+              "thumbnail": "borntodoit"
+
+        }
+        
+    ]
+}
